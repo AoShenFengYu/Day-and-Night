@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/night_sky_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_sky_night">
+
+    <!-- Large star -->
+    <include
+        layout="@layout/layout_night_star_large"
+        android:layout_width="@dimen/star_large_size"
+        android:layout_height="@dimen/star_large_size"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="150dp" />
+
+    <include
+        layout="@layout/layout_night_star_large"
+        android:layout_width="@dimen/star_large_size"
+        android:layout_height="@dimen/star_large_size"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="200dp"
+        android:layout_marginTop="75dp" />
+
+    <!-- Middle star -->
+    <include
+        layout="@layout/layout_night_star_middle"
+        android:layout_width="@dimen/star_middle_size"
+        android:layout_height="@dimen/star_middle_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="180dp" />
+
+    <include
+        layout="@layout/layout_night_star_middle"
+        android:layout_width="@dimen/star_middle_size"
+        android:layout_height="@dimen/star_middle_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="175dp" />
+
+    <include
+        layout="@layout/layout_night_star_middle"
+        android:layout_width="@dimen/star_middle_size"
+        android:layout_height="@dimen/star_middle_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="125dp" />
+
+    <include
+        layout="@layout/layout_night_star_middle"
+        android:layout_width="@dimen/star_middle_size"
+        android:layout_height="@dimen/star_middle_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="320dp"
+        android:layout_marginTop="220dp" />
+
+    <include
+        layout="@layout/layout_night_star_middle"
+        android:layout_width="@dimen/star_middle_size"
+        android:layout_height="@dimen/star_middle_size"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="70dp"
+        android:layout_marginTop="120dp" />
+
+    <!-- Small star-->
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="150dp"
+        android:layout_marginTop="15dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="250dp"
+        android:layout_marginTop="45dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="60dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="95dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="210dp"
+        android:layout_marginTop="75dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="35dp"
+        android:layout_marginBottom="60dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="99dp"
+        android:layout_marginBottom="44dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="133dp"
+        android:layout_marginBottom="77dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="55dp"
+        android:layout_marginBottom="66dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="111dp"
+        android:layout_marginBottom="45dp" />
+
+    <include
+        layout="@layout/layout_night_star_small"
+        android:layout_width="@dimen/star_small_size"
+        android:layout_height="@dimen/star_small_size"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="144dp"
+        android:layout_marginBottom="88dp" />
+
+</RelativeLayout>

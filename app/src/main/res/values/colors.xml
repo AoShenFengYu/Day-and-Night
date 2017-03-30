@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Sun color -->
+    <color name="colorFFFB9F">#FFFB9F</color>
+
+    <!-- Day sky -->
+    <color name="color1D97F6">#1D97F6</color>
+    <color name="color91BEEE">#91BEEE</color>
+
+    <!-- Night sky -->
+    <color name="color063487">#063487</color>
+    <color name="color1A89D2">#1A89D2</color>
+
+    <!-- Night cloud -->
+    <color name="color9CD0E1">#9CD0E1</color>
+    <color name="color76A9D9">#76A9D9</color>
+
+</resources>

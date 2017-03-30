@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Star size in sky -->
+    <dimen name="star_large_size">10dp</dimen>
+    <dimen name="star_middle_size">3dp</dimen>
+    <dimen name="star_small_size">2dp</dimen>
+
+    <!-- Cloud layout Height-->
+    <dimen name="cloud_layout_height">200dp</dimen>
+
+</resources>
